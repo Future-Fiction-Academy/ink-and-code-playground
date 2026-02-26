@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://futurefictionacademy.com/">Website</a> · <a href="https://github.com/Future-Fiction-Academy">GitHub Org</a>
+  <a href="https://futurefictionacademy.com/">Website</a> · <a href="https://github.com/Future-Fiction-Academy/AI-Scriptorium">GitHub Repo</a>
 </p>
 
 ---
@@ -37,7 +37,7 @@ Whether you're a writer curious about AI co-creation, a developer building autho
 | [**Vibe Code Hello World**](https://github.com/Future-Fiction-Academy/hello-world) | A minimal Python/Flask starter app for the *Vibe Coding Easy Button* series — fork it, remix it with AI, and deploy to Railway in minutes. | Active |
 | [**Arcwright**](https://github.com/Future-Fiction-Academy/Arcwright) | Story-architecture and narrative tooling under development at Future Fiction Academy. | In Progress |
 
-> More projects are on the way. Watch this repo or follow the [Future Fiction Academy GitHub org](https://github.com/Future-Fiction-Academy) to stay updated.
+> More projects are on the way. Watch this repo or follow the [AI Scriptorium repo](https://github.com/Future-Fiction-Academy/AI-Scriptorium) to stay updated.
 
 ---
 

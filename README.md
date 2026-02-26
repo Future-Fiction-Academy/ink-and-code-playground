@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://futurefictionacademy.com/wp-content/uploads/2023/05/FFA-Logo.png" alt="Future Fiction Academy" width="220" />
-</p>
-
-<p align="center">
-  <img src="images/ai-scriptorium-logo.png" alt="AI Scriptorium" width="360" />
+  <a href="https://futurefictionacademy.com/"><img src="https://futurefictionacademy.com/wp-content/uploads/2023/05/FFA-Logo.png" alt="Future Fiction Academy" height="120" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/ai-scriptorium-logo.png" alt="AI Scriptorium" height="120" />
 </p>
 
 <h1 align="center">AI Scriptorium</h1>

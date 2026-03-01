@@ -28,7 +28,7 @@ If you're a storyteller, builder, or creative technologist, we'd love for you to
 <tr>
 <td width="50%" valign="top">
 
-### [Arcwright](https://github.com/ink-and-code-playground/Arcwright)
+### [Arcwright](https://github.com/Future-Fiction-Academy/Arcwright)
 
 > *Crafting worlds through code and narrative.*
 
@@ -41,7 +41,7 @@ If you're a storyteller, builder, or creative technologist, we'd love for you to
 </td>
 <td width="50%" valign="top">
 
-### [hello-world](https://github.com/ink-and-code-playground/hello-world)
+### [hello-world](https://github.com/Future-Fiction-Academy/hello-world)
 
 > *A hello world application deployment for the vibe coding easy button series.*
 

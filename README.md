@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://futurefictionacademy.com/wp-content/uploads/2023/05/FFA-Logo.png" alt="Future Fiction Academy logo" width="280" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="ink-and-code-playground-logo.png" alt="Ink & Code Playground logo" width="280" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://futurefictionacademy.com/wp-content/uploads/2023/05/FFA-Logo.png" alt="Future Fiction Academy logo" width="280" />
 </p>
 
 <h1 align="center">Ink & Code Playground</h1>

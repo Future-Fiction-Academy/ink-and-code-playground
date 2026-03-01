@@ -24,19 +24,40 @@ If you're a storyteller, builder, or creative technologist, we'd love for you to
 
 ## Projects
 
-> Project listings will be added here as repositories are published.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-When available, each project entry will include:
-- A link to the project repository
-- A short description of what it does
-- Current status (active, in progress, archived)
+### [Arcwright](https://github.com/ink-and-code-playground/Arcwright)
 
-### Upcoming Project Links
+> *Crafting worlds through code and narrative.*
 
-- **Project Name 1** — Brief description of the project and what it helps people do. *(Link coming soon)*
-- **Project Name 2** — Brief description of the project and intended audience/use case. *(Link coming soon)*
-- **Project Name 3** — Brief description of the project goals or features. *(Link coming soon)*
-- **Project Name 4** — Brief description of the project and why it exists. *(Link coming soon)*
+![Language](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![License](https://img.shields.io/badge/Other-grey?style=flat-square)
+![Status](https://img.shields.io/badge/Active-%2331C754?style=flat-square)
+
+<sub>Public &nbsp;|&nbsp; Updated yesterday</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [hello-world](https://github.com/ink-and-code-playground/hello-world)
+
+> *A hello world application deployment for the vibe coding easy button series.*
+
+![Language](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![License](https://img.shields.io/badge/MIT-%230072C6?style=flat-square)
+![Status](https://img.shields.io/badge/Active-%2331C754?style=flat-square)
+
+<sub>Public &nbsp;|&nbsp; Updated last week</sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <em>More projects on the way — stay tuned.</em>
+</p>
 
 ---
 
